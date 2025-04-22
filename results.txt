@@ -1,0 +1,16 @@
+User born in 1988 -> Millennials
+Favorite movie: Titanic (USA) -> You are romantic, nostalgic, and deeply emotional.
+User mood: romantic
+
+User born in 1988 -> Millennials
+Favorite movie: The King's Speech (UK) -> You overcome fear with dignity and quiet strength.
+User mood: adventurous
+
+User born in 1925 -> The Greatest Generation
+Favorite movie: Forrest Gump (USA) -> You see beauty in simplicity and value life's unpredictability.
+User mood: relaxed
+
+User born in 1984 -> Millennials
+Favorite movie: The Sea Inside (Spain) -> You are reflective and wrestle with freedom and ethics.
+User mood: adventurous
+
